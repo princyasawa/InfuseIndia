@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 
-const baseUrl = 'http://localhost:4200/api/tutorials'
+const baseUrl = 'https://tutorial-infuse.herokuapp.com'
 
 @Injectable({
   providedIn: 'root'
